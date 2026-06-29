@@ -1,0 +1,38 @@
+{
+  "name": "chat-wrapped",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Spotify-Wrapped-style analyzer for your WhatsApp chat history. 100% local, nothing uploaded.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint .",
+    "format": "prettier --write \"**/*.{js,jsx,css,json,md}\"",
+    "format:check": "prettier --check \"**/*.{js,jsx,css,json,md}\""
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "@tailwindcss/vite": "^4.1.7",
+    "@vitejs/plugin-react": "^4.4.1",
+    "eslint": "^9.27.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.1.0",
+    "prettier": "^3.5.3",
+    "tailwindcss": "^4.1.7",
+    "vite": "^6.3.5",
+    "vitest": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}

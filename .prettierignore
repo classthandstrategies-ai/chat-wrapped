@@ -1,0 +1,9 @@
+dist
+node_modules
+coverage
+public/sample-chat.txt
+public/sample-group-chat.txt
+design
+*.md
+pnpm-lock.yaml
+package-lock.json
