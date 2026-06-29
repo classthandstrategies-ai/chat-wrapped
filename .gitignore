@@ -41,3 +41,6 @@ Thumbs.db
 
 # Internal planning notes (kept local, not part of the public repo)
 brainstorms/
+
+# Local Claude Code tooling state
+.claude/
