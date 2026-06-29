@@ -5,9 +5,10 @@
 **Turn your exported WhatsApp chat into a Spotify-Wrapped-style story.**
 100% local — your chat never leaves your browser.
 
+[![Live Demo](https://img.shields.io/badge/live-demo-1ed760?logo=vercel&logoColor=white)](https://chat-wrapped-ruby.vercel.app/)
 [![CI](https://github.com/classthandstrategies-ai/chat-wrapped/actions/workflows/ci.yml/badge.svg)](https://github.com/classthandstrategies-ai/chat-wrapped/actions/workflows/ci.yml)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/classthandstrategies-ai/chat-wrapped)
 [![License: MIT](https://img.shields.io/badge/License-MIT-1ed760.svg)](./LICENSE)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/classthandstrategies-ai/chat-wrapped)
 
 [Live demo](#-live-demo) · [Features](#-features) · [Quick start](#-quick-start) · [How to use](#-how-to-use)
 
@@ -27,7 +28,10 @@
 
 ## 🔗 Live demo
 
-> **Add your deployment link here** once deployed, e.g. `https://chat-wrapped.vercel.app`.
+**▶️ [chat-wrapped-ruby.vercel.app](https://chat-wrapped-ruby.vercel.app/)**
+
+No sign-up, no upload — try it instantly with the built-in **sample chat** / **group chat**
+buttons, or drop your own export.
 
 ## ✨ Features
 
